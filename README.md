@@ -86,3 +86,11 @@ Millions of product reviews on Amazon hold valuable customer feedback. We utiliz
 - Real-time sentiment classification using **Spark Streaming**
 - Build an interactive **dashboard** with live visualizations
 - Experiment with **deep learning models** (e.g., BERT, LSTM)
+
+---
+
+## 📄 Project Report
+
+📘 **[Download the Full Report (PDF)](https://1drv.ms/b/c/612d6f6621161847/EQlgdu0v3gFIut80xuFSUOIBgL0mp9GaPR9q5PB7QfcMBA?e=RlVAGP)**  
+Includes all code stages, visualizations, results, and detailed explanation of the methodology.
+
